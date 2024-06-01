@@ -17,3 +17,5 @@ Käyttäjä voi hakea ravintoloita ruuan tyylin ja/tai arvioiden perusteella ja 
 Ylläpitäjä voi tarvittaessa poistaa Käyttäjän kirjoittaman arvion
 
 Ylläpitäjä voi luoda ryhmiä, joihin hän voi luokitella Ravintoloita
+
+Luotu sovellukselle pohja, jonka avulla sovelluksen voi käynnistää
